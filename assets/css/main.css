@@ -58,7 +58,7 @@ container {
   box-shadow: 1px 1px 0 rgba(0, 0, 0, 0.6), 2px 2px 0 rgba(0, 0, 0, 0.6),
     3px 3px 0 rgba(0, 0, 0, 0.6), 4px 4px 0 rgba(0, 0, 0, 0.6),
     5px 5px 0 rgba(0, 0, 0, 0.6), 6px 6px 0 rgba(0, 0, 0, 0.6);
-  background: url("https://i.pinimg.com/originals/50/01/17/5001173ba07f6fb0726fe1dca5da2673.gif")
+  background: url("./img/miaw.gif")
     bottom right no-repeat rgba(0, 0, 0, 0.6);
   background-size: 80%;
 }
